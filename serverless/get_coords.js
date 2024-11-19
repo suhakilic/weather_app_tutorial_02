@@ -1,4 +1,4 @@
-import fetch from "node-fetch"; // Ensure you are using the correct version of node-fetch
+import fetch from "node-fetch";
 
 const { WEATHER_API_KEY } = process.env;
 
